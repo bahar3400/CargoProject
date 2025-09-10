@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\OOP\\CargopProjectMVC\\CargopProjectMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA131A3-E1B2-42AB-B022-9F6E2CF2525E}|CargopProjectMVC\\CargopProjectMVC.csproj|c:\\users\\lenovo\\onedrive\\oop\\cargopprojectmvc\\cargopprojectmvc\\cargopprojectmvc\\views\\lesson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADA131A3-E1B2-42AB-B022-9F6E2CF2525E}|CargopProjectMVC\\CargopProjectMVC.csproj|solutionrelative:cargopprojectmvc\\views\\lesson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA131A3-E1B2-42AB-B022-9F6E2CF2525E}|CargopProjectMVC\\CargopProjectMVC.csproj|c:\\users\\lenovo\\onedrive\\oop\\cargopprojectmvc\\cargopprojectmvc\\cargopprojectmvc\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA131A3-E1B2-42AB-B022-9F6E2CF2525E}|CargopProjectMVC\\CargopProjectMVC.csproj|solutionrelative:cargopprojectmvc\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA131A3-E1B2-42AB-B022-9F6E2CF2525E}|CargopProjectMVC\\CargopProjectMVC.csproj|c:\\users\\lenovo\\onedrive\\oop\\cargopprojectmvc\\cargopprojectmvc\\cargopprojectmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA131A3-E1B2-42AB-B022-9F6E2CF2525E}|CargopProjectMVC\\CargopProjectMVC.csproj|solutionrelative:cargopprojectmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA131A3-E1B2-42AB-B022-9F6E2CF2525E}|CargopProjectMVC\\CargopProjectMVC.csproj|c:\\users\\lenovo\\onedrive\\oop\\cargopprojectmvc\\cargopprojectmvc\\cargopprojectmvc\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA131A3-E1B2-42AB-B022-9F6E2CF2525E}|CargopProjectMVC\\CargopProjectMVC.csproj|solutionrelative:cargopprojectmvc\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\OOP\\CargopProjectMVC\\CargopProjectMVC\\CargopProjectMVC\\Views\\Lesson\\Create.cshtml",
+              "RelativeDocumentMoniker": "CargopProjectMVC\\Views\\Lesson\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\OOP\\CargopProjectMVC\\CargopProjectMVC\\CargopProjectMVC\\Views\\Lesson\\Create.cshtml",
+              "RelativeToolTip": "CargopProjectMVC\\Views\\Lesson\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T12:17:24.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\OOP\\CargopProjectMVC\\CargopProjectMVC\\CargopProjectMVC\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "CargopProjectMVC\\Controllers\\LessonController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\OOP\\CargopProjectMVC\\CargopProjectMVC\\CargopProjectMVC\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "CargopProjectMVC\\Controllers\\LessonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T11:08:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\OOP\\CargopProjectMVC\\CargopProjectMVC\\CargopProjectMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CargopProjectMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\OOP\\CargopProjectMVC\\CargopProjectMVC\\CargopProjectMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CargopProjectMVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T11:08:13.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\OOP\\CargopProjectMVC\\CargopProjectMVC\\CargopProjectMVC\\Models\\Users\\User.cs",
+              "RelativeDocumentMoniker": "CargopProjectMVC\\Models\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\OOP\\CargopProjectMVC\\CargopProjectMVC\\CargopProjectMVC\\Models\\Users\\User.cs",
+              "RelativeToolTip": "CargopProjectMVC\\Models\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T11:08:04.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
